@@ -1,12 +1,60 @@
-[
-        {type: "Paragraph", text: "Lorem ipsum odor amet, consectetuer adipiscing elit. Pharetra sed pulvinar porta nam tempor et. Justo per mollis; tellus felis libero rutrum. Sem eu quisque purus; torquent per aptent? Dictum turpis in elementum erat suscipit senectus finibus. Orci lacinia magnis vehicula imperdiet vitae luctus. Fames nisi potenti metus elementum imperdiet hac quis justo lectus. Lobortis taciti platea libero himenaeos blandit. Lacinia nam augue volutpat pretium feugiat mattis facilisis nam.", className: "mt-8 mb-6"},
-        {type: "Heading", level: 2, text: "Lorem ipsum 1"},
-        {type: "Image", caption: "text.", src: "https://placehold.co/1920x1080", alt: "placeholder image", position: "left"},
-        {type: "Paragraph", text: "Conubia dignissim scelerisque aenean platea pretium accumsan? Posuere ridiculus rhoncus turpis, mus pretium est tortor tellus. Felis faucibus posuere posuere ornare penatibus varius suscipit. Ante quis himenaeos inceptos magnis arcu taciti. Justo sodales dignissim, scelerisque fames ullamcorper cubilia amet ullamcorper. Tortor orci volutpat varius consectetur orci euismod. Integer mattis tristique faucibus condimentum cubilia. Lobortis volutpat per volutpat vel neque posuere blandit."},
-        {type: "Image", caption: "text.", src: "https://placehold.co/1920x1080", alt: "placeholder image", position: "right"},
-        {type: "Paragraph", text: "Dictum proin turpis cursus odio vivamus integer natoque. Diam ridiculus iaculis primis amet ante tempus. Ligula urna tortor consectetur cursus facilisis. Leo sapien magnis ut mollis phasellus integer. Tristique finibus sociosqu vitae varius nisi et senectus. Metus pellentesque eros commodo enim ipsum sed sociosqu nibh. Convallis nam magnis ut convallis eget eget velit? At lacus class natoque luctus augue maximus donec. Faucibus sed fermentum senectus dapibus dignissim penatibus."},
-        {type: "Heading", level: 2, text: "Lorem ipsum 2"},
-        {type: "Paragraph", text: "Luctus ultrices malesuada nulla velit egestas ultricies volutpat. Libero ultricies egestas blandit tempor, magnis tempor praesent. Vivamus nostra conubia eleifend cursus, nibh rhoncus ridiculus placerat. Scelerisque nascetur non lacinia diam, eros massa commodo penatibus vitae. Viverra eros vel nibh et sem placerat lectus tempor urna. Mattis sollicitudin posuere imperdiet efficitur efficitur posuere mus non dictumst. Erat quam dis hac phasellus habitant vitae sapien. Magna urna feugiat leo in imperdiet. Gravida finibus mus consequat turpis molestie massa. Potenti rutrum tristique montes; mauris cubilia adipiscing?"},
-        {type: "Image", caption: "text.", src: "https://placehold.co/1920x1080", alt: "placeholder image", position: "center"},
-        {type: "Paragraph", text: "Proin viverra vel eget lorem; purus sem. Eleifend dapibus dis facilisi mus facilisi platea eleifend. Ornare ex interdum blandit fames magnis nascetur mollis. Risus euismod tempor arcu dis himenaeos euismod ullamcorper ligula. Vulputate ornare lectus cubilia congue finibus felis facilisi ut. Tempor facilisi consectetur dapibus enim consectetur. Leo mattis laoreet tempor diam rutrum. Dapibus gravida vulputate, nisl viverra orci amet. Viverra purus a duis euismod natoque litora."},
-    ]
+{
+  "projectTitle": "Lorem ipsum",
+  "projectCategory": "Lorem",
+  "projectDescription": "Lorem ipsum.",
+  "coverImage": "https://placehold.co/1920x1080",
+  "articleContent": [
+    {
+      "type": "Paragraph",
+      "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Pharetra sed pulvinar porta nam tempor et. Justo per mollis; tellus felis libero rutrum. Sem eu quisque purus; torquent per aptent? Dictum turpis in elementum erat suscipit senectus finibus. Orci lacinia magnis vehicula imperdiet vitae luctus. Fames nisi potenti metus elementum imperdiet hac quis justo lectus. Lobortis taciti platea libero himenaeos blandit. Lacinia nam augue volutpat pretium feugiat mattis facilisis nam.",
+      "className": "mt-8 mb-6"
+    },
+    {
+      "type": "Heading",
+      "level": 2,
+      "text": "Lorem ipsum 1"
+    },
+    {
+      "type": "Image",
+      "caption": "text.",
+      "src": "https://placehold.co/1920x1080",
+      "alt": "placeholder image",
+      "position": "left"
+    },
+    {
+      "type": "Paragraph",
+      "text": "Conubia dignissim scelerisque aenean platea pretium accumsan? Posuere ridiculus rhoncus turpis, mus pretium est tortor tellus. Felis faucibus posuere posuere ornare penatibus varius suscipit. Ante quis himenaeos inceptos magnis arcu taciti. Justo sodales dignissim, scelerisque fames ullamcorper cubilia amet ullamcorper. Tortor orci volutpat varius consectetur orci euismod. Integer mattis tristique faucibus condimentum cubilia. Lobortis volutpat per volutpat vel neque posuere blandit."
+    },
+    {
+      "type": "Image",
+      "caption": "text.",
+      "src": "https://placehold.co/1920x1080",
+      "alt": "placeholder image",
+      "position": "right"
+    },
+    {
+      "type": "Paragraph",
+      "text": "Dictum proin turpis cursus odio vivamus integer natoque. Diam ridiculus iaculis primis amet ante tempus. Ligula urna tortor consectetur cursus facilisis. Leo sapien magnis ut mollis phasellus integer. Tristique finibus sociosqu vitae varius nisi et senectus. Metus pellentesque eros commodo enim ipsum sed sociosqu nibh. Convallis nam magnis ut convallis eget eget velit? At lacus class natoque luctus augue maximus donec. Faucibus sed fermentum senectus dapibus dignissim penatibus."
+    },
+    {
+      "type": "Heading",
+      "level": 2,
+      "text": "Lorem ipsum 2"
+    },
+    {
+      "type": "Paragraph",
+      "text": "Luctus ultrices malesuada nulla velit egestas ultricies volutpat. Libero ultricies egestas blandit tempor, magnis tempor praesent. Vivamus nostra conubia eleifend cursus, nibh rhoncus ridiculus placerat. Scelerisque nascetur non lacinia diam, eros massa commodo penatibus vitae. Viverra eros vel nibh et sem placerat lectus tempor urna. Mattis sollicitudin posuere imperdiet efficitur efficitur posuere mus non dictumst. Erat quam dis hac phasellus habitant vitae sapien. Magna urna feugiat leo in imperdiet. Gravida finibus mus consequat turpis molestie massa. Potenti rutrum tristique montes; mauris cubilia adipiscing?"
+    },
+    {
+      "type": "Image",
+      "caption": "text.",
+      "src": "https://placehold.co/1920x1080",
+      "alt": "placeholder image",
+      "position": "center"
+    },
+    {
+      "type": "Paragraph",
+      "text": "Proin viverra vel eget lorem; purus sem. Eleifend dapibus dis facilisi mus facilisi platea eleifend. Ornare ex interdum blandit fames magnis nascetur mollis. Risus euismod tempor arcu dis himenaeos euismod ullamcorper ligula. Vulputate ornare lectus cubilia congue finibus felis facilisi ut. Tempor facilisi consectetur dapibus enim consectetur. Leo mattis laoreet tempor diam rutrum. Dapibus gravida vulputate, nisl viverra orci amet. Viverra purus a duis euismod natoque litora."
+    }
+  ]
+}
