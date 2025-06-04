@@ -1,8 +1,6 @@
 {
-  "projectTitle": "Lorem ipsum",
-  "projectCategory": "Lorem",
-  "projectDescription": "Lorem ipsum.",
-  "coverImage": "https://placehold.co/1920x1080",
+  "title": "Lorem ipsum",
+  "description": "Lorem ipsum.",
   "articleContent": [
     {
       "type": "Paragraph",
